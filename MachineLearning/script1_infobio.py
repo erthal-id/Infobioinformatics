@@ -1,6 +1,6 @@
 #!pip install sklearn
 
-#2021/1
+#Cenario: 2021/1
 #Features: 0 -> não, 1 -> sim
 #saía de casa com freq?
 #tomou vacina?
