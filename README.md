@@ -8,4 +8,4 @@ Já estudamos: <br>
 * Machine learning para bioinformática, usando Python - Em andamento
 * Principais Ômicas - Em andamento
 <br>
-O projeto é formado por mim (gerente do time), Carlos Eduardo Capelini Lopes, Luiz Gabriel Mencucini, Sarah Sandy Sun, André Turcato, Joanã Oliveira e Kathley Azevedo
+O time do projeto é formado por mim (gerente do projeto), Carlos Eduardo Capelini Lopes, Luiz Gabriel Mencucini, Sarah Sandy Sun, André Turcato, Joanã Oliveira e Kathley Azevedo
