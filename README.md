@@ -1,6 +1,6 @@
 # Infobioinformatics
 
-O Infobioinformatics é um projeto interno da Empresa Júnior de Informática Biomédica (InfoBio Jr.), que tem como objetivo aprofundar o conhecimento na área de bioinformática e capacitar os membros a realizarem e oferecem serviços no contexto da área.
+O Infobioinformatics é um projeto interno da Empresa Júnior de Informática Biomédica ([InfoBio Jr.](https://www.infobiojr.com.br/)), que tem como objetivo aprofundar o conhecimento na área de bioinformática e capacitar os membros a realizarem e oferecem serviços no contexto da área.
 <br>
 Já estudamos: <br>
 * História do sequenciamento genético
